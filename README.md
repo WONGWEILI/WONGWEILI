@@ -1,9 +1,5 @@
 # Hi there, I'm Wong Wei Li 👋
 
-<img src="swiss-army-knife.png" align="right" width="60" height="60" alt="Swiss Army Knife Pixel Art" />
-
-> **"Let's use the right tool than force the wrong one."**
-
 I am a Software Engineering student at Universiti Malaya with hands-on experience building full-stack, mobile, and game development projects. I love creating practical applications that solve real-world problems.
 
 ---
@@ -21,3 +17,12 @@ I am a Software Engineering student at Universiti Malaya with hands-on experienc
 *   **Email:** weiliwong1005@gmail.com
 *   **Location:** Johor, Malaysia
 *   **Education:** Bachelor of Computer Science (Software Engineering), Universiti Malaya
+
+---
+
+### Personal Matto
+
+> **"Let's use the right tool than force the wrong one."**
+
+<img src="swiss-army-knife.png"  width="60" height="60" style="border-radius: 15px;" alt="Swiss Army Knife Pixel Art" />
+
