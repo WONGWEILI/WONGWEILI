@@ -33,7 +33,7 @@
 
 ### Passive
 
-*   **Sticky-Hand:** Always Holding The Correct Tools
+*   **Sticky-Hand:** Always Holding The right Tools
 
 
 <img src="swiss-army-knife.png"  width="60" height="60" style="border-radius: 15px;" alt="Swiss Army Knife Pixel Art" />
