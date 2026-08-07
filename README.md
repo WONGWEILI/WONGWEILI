@@ -1,28 +1,39 @@
-# Hi there, I'm Wong Wei Li 👋
 
-I am a Software Engineering student at Universiti Malaya with hands-on experience building full-stack, mobile, and game development projects. I love creating practical applications that solve real-world problems.
+
+<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/4fd0385f-6202-4443-90d2-0290ec044044.gif" width="40%" style="image-rendering: pixelated;" alt="pixel-art-readme-gifs">
+
+#  Wei Li 
+
+  I love creating practical applications that solve real-world problems.
 
 ---
 
-### 🛠️ Technical Skills
+###  Inventory 
 
-*   **Languages:** Java, Python, C#, Kotlin, JavaScript, TypeScript, SQL, Assembly, HTML/CSS
+*   **Tools:** Java, Python, C#, Kotlin, JavaScript, TypeScript, SQL, Assembly, HTML/CSS
 *   **Frameworks & Platforms:** Next.js, React, Bootstrap, Jetpack Compose, .NET, MonoGame, Unity
-*   **Tools & Databases:** Firebase, Supabase, Oracle, Git/GitHub, Figma, CCNA, Aseprite
-
+*   **Bagpack:** Firebase, Supabase, Oracle, Figma, CCNA, Aseprite
+*   **Save:** Git/Github
 ---
 
-### 📫 Connect with Me
+###  Level
+
+*   **Experience** Full-Stack, Mobile, Game Development
+---
+
+###  Trainer Card
 
 *   **Email:** weiliwong1005@gmail.com
-*   **Location:** Johor, Malaysia
+*   **Location:** Malaysia
 *   **Education:** Bachelor of Computer Science (Software Engineering), Universiti Malaya
 
 ---
 
-### Personal Matto
 
-> **"Let's use the right tool than force the wrong one."**
+
+### Passive
+
+*   **Sticky-Hand:** Always Holding The Correct Tools
+
 
 <img src="swiss-army-knife.png"  width="60" height="60" style="border-radius: 15px;" alt="Swiss Army Knife Pixel Art" />
-
