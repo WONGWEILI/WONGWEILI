@@ -59,7 +59,7 @@
 *   **Email:** weiliwong1005@gmail.com
 *   **Location:** Malaysia
 *   **Education:** Bachelor of Computer Science (Software Engineering), Universiti Malaya
-*   **Portfolio:** [View Portfolio](https://portfolio-wong-s-projects6.vercel.app/)
+*   **Portfolio:** [View Portfolio](https://wongweili-portfolio.vercel.app/)
 
 ---
 
