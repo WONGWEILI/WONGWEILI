@@ -57,7 +57,7 @@
 ##  Trainer Card
 
 *   **Email:** weiliwong1005@gmail.com
-*   **Location:** Malaysia
+*   **<kbd>M</kbd>:** Malaysia
 *   **Education:** Bachelor of Computer Science (Software Engineering), Universiti Malaya
 *   **Portfolio:** [View Portfolio](https://wongweili-portfolio.vercel.app/)
 
