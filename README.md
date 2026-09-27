@@ -54,7 +54,7 @@
 *   **Experience** Full-Stack, Mobile, Game Development
 ---
 
-##  Trainer Card
+##  Trainer Card <img src="https://icons-samuel.netlify.app/pokeball.webp" width="20" height="20">
 
 *   **Email:** weiliwong1005@gmail.com
 *   **<kbd>M</kbd>:** Malaysia
